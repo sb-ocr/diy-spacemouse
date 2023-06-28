@@ -6,4 +6,4 @@ Watch the build video ↓
 
 This device is made for Fusion360 but can be adapted to other CAD applications. Current features: Orbit, Pan, Home view and Fit to view.
 
-Build instructions (coming soon)
+Build instructions → [Instructables](https://www.instructables.com/DIY-Space-Mouse-for-Fusion-360-Using-Magnets)
