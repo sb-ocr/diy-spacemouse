@@ -8,6 +8,13 @@ This device is made for Fusion360 but can be adapted to other CAD applications. 
 
 Build instructions → [Instructables](https://www.instructables.com/DIY-Space-Mouse-for-Fusion-360-Using-Magnets)
 
+## BOM
+
+- [Parts](BOM/Parts_BOM.md)
+- [Hardware](BOM/Hardware_BOM.md)
+
+## Licence
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
